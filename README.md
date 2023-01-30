@@ -8,6 +8,7 @@
 - savefloats
 - hide_vacant_tags
 - systray
+- fullgaps
 
 使用方法：
 ```bash
